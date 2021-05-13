@@ -1,9 +1,9 @@
 # GitHub-Cheat-Sheet 🐱‍👤
 Github cheatsheet
 
-### Create repository in GitHub and remember the link it provides
-### Open the project folder and open with GitBash
-### Submit to repository
+### 1️⃣ Create repository in GitHub and remember the link it provides
+### 2️⃣ Open the project folder and open with GitBash
+### 3️⃣ Submit to repository
 
 ##### If user email hasn't been declared:
 - git config --global user.email **your-email** 
